@@ -1,0 +1,17 @@
+app.shapes:
+  - type: Circle
+    radius: 3
+    colors:
+      - fill: red
+        border: green
+  - type: Rectangle
+    length: 4
+    width: 2
+  - type: Circle
+    radius: 5
+    colors:
+     - fill: blue
+       border: black
+  - type: Triangle
+    base: 5
+    height: 2
